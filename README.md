@@ -1,2 +1,6 @@
-# python_web_programming
-Network programming through sockets
+python网络编程相关
+========
+代码实现
+------
+1.多进程（线程）+socket套接字实现并发服务器
+
